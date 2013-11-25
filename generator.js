@@ -24,7 +24,7 @@
   var SIZE = SQUARE*GRID+PADDING*2;
 
   // MILLIS BETWEEN REFRESH
-  var DRAW_INTERVAL = 1000;
+  var DRAW_INTERVAL = 500;
 
   /**
    * Setup a context and size for a canvas
