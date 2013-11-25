@@ -1,0 +1,22 @@
+body {
+  background: #333;
+  color: #7f8c8d;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif
+}
+canvas {
+  margin: 1em
+}
+.align-center {
+  text-align: center
+}
+h1 {
+  font-weight: normal;
+  font-size: -webkit-xxx-large
+}
+h1 span {
+  color: #1abc9c
+}
+.logo {
+  width: 200px;
+  vertical-align: middle
+}
