@@ -5,7 +5,7 @@ What is this ?
 
 Identicons is a Github's identicons like **generator** in **javascript** using power of canvas and proudly released under MIT License!
 
-> ## [DEMO v1.0](http://remidelhaye.github.io/identicons)
+> ## [DEMO v1.0](http://rdlh.github.io/identicons)
 
 Contributors
 ------------
